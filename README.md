@@ -12,6 +12,9 @@
 ## Overview  
 This project explores road accident data using **Microsoft Excel**, identifying trends, risk factors, and key insights to enhance road safety. Through data cleaning, pivot tables, and visualizations, the analysis supports data-driven decision-making.  
 
+### **Dashboard Visualization**  
+![Road Accident Dashboard](Visualization.png)  
+
 ## Key Questions  
 1. What are the overall trends in **casualties by severity** (fatal, serious, slight)?  
 2. How do **accidents vary by month**, and are there seasonal patterns?  
@@ -28,7 +31,7 @@ The dataset includes:
 
 ## Methodology  
 1. **Data Cleaning**: Handle missing values, remove duplicates, and format data.  
-2. **Data Analysis**: Use Excel functions (`SUMIF`, `COUNTIF`, `AVERAGEIF`) to identify trends.  
+2. **Data Analysis**: Use Excel formulas (`SUMIF`, `COUNTIF`, `AVERAGEIF`) to identify trends.  
 3. **Pivot Tables & Charts**: Summarize accident frequency by severity, road type, and weather.  
 4. **Insights & Recommendations**: Identify high-risk conditions and propose safety improvements.  
 
